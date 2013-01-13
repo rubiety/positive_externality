@@ -1,0 +1,24 @@
+---
+title: Taking Advantage of Resource Contention Inconstancy
+tags: Efficiency, Time Economics
+---
+
+Most members of society mostly lives their lives in-sync.  Everyone wakes up and drives to work between 6 and 9AM.  Everyone works from 9AM to 5PM, then at 5PM they drive home.  After 5PM many people go out and eat dinner or enjoy entertainment.  Many people use the weekends to go shopping.
+
+There are of course benefits of doing things at the same time as others.  Having a standard work day from 9AM to 5PM ensures that business to business transactions and meetings almost always occur at a mutually-convenient time.  Having lunch between 12 and 1:30 ensures that you're probably able to find a lunch buddy.  Stopping work at 5PM means you'll probably can enjoy time with your spouse at the exact same time he or she can enjoy time with you.  These are all matching benefits - doing things at the same time has value to you because it produces more matches in transactions, and this is indeed a very good thing.
+
+On the flip side, however, there are costs in goods and services that are rivalrous and in relatively fixed supply within the short time period they are demanded.  Road systems clog up in the morning and after work as everyone commutes at the same time, exposing substantial time and gasoline costs on some households.  Many restaurant establishments are jam-packed during the business lunch hour, incurring time costs or uncertainty costs (in the sense that you aren't certain you can even find a seat).  Starbucks from 8-9AM almost universally has long waits just to get a cup of coffee.  Many people simply do not realize how much time they spend per week waiting in lines, driving in traffic, or other time derivable directly from simple resource contention/demand spikes.  They're exhausted and "overworked", and it's no wonder.
+
+You might wonder why supply doesn't increase for many phenomena that exhibit fluctuating demand based on time of day.  The reason is that it can be inherently costly or downright impossible to fluctuate supply based on time of day.  A restaurant can't easily hire more staff to *only* work between 12 and 1.  That same restaurant can't magically add more seats to their establishment during busy times.  Roads have fixed capacity in the short run.  Shopping mall parking lots are fixed in size.
+
+Demand/supply constancy has efficiency benefits since it makes the best use of scarce resources that exhibit some fixed cost component.  Time-based spikes and demand peaks are often not efficient and end up imposing time or monetary costs.  In the sense of resource contention, it would be more efficient for everyone's commutes to occur individually at random times of the day, not all at the same time. Even the most trafficked freeways in Los Angeles would have plenty of capacity if current throughput were spread out 24 hours a day.  Contention for restaurant tables would be eliminated if eating times weren't so culturally rigid.  Even something as simple as shopping would be far less stressful if shopping malls had a steady but constant stream of traffic.
+
+Knowing the patterns of society today, with this in mind, I've taken to deliberately doing things at odd hours.  I each lunch either at 11AM or 2:30.  If I have to drive anywhere, I make sure it's not between 8-10AM and 4-7PM.  If I have to go shopping or run other errands, I always do so at odd hours when I feel resource contention will be relatively low.
+
+The same reasoning explaining intra-day demand spikes applies to multiple days.  Since commercially everything is so busy on the weekend, I work on weekends and instead take time off during the middle of the day on weekdays when no one else is shopping or using the tennis courts.  I also benefit in this sense by taking my free time during the hours that experience the most sun and warmth in San Diego.
+
+Going back to the recognized benefits, this of course only really works for activities you expect to be doing yourself or with another person who follows your modified life schedule.  If most of your friends take their lunch from 12 - 1, you might be eating alone if you feel it's best to eat from 2:30 - 3:30.
+
+It's unfortunate that work hours are so rigid that most people can't take advantage of dips in resource contention this way even if they wanted to.  But I'd encourage anyone to look for opportunities to evade resource spikes.  Doing so saves you much more time than you might imagine.  I feel refreshed rarely ever waiting in lines or getting stuck in traffic here in Southern California.
+
+This to me is a huge benefit of being self-employed that has nothing per-say to do with job security. There's no reason why my efficiency-maximizing schedule couldn't be sustainable for full time employment. Society just expects you to work 9-5, period - it's rigidity, and I don't think it's good.
