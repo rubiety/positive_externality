@@ -33,9 +33,8 @@
             %h1= link_to "Positive Externality", "/"
             %h3 The Curious Task of Economics...
             .profilepic
-              = image_tag "mug.png", :alt => "Ben Hughes"
-            %section.aboutme
-              I'm Ben Hughes, a rubyist, travel hacker, economics nerd, amateur jazz pianist, and penguin afficionado.
+              %a{:href => "http://benhughes.name"}
+                = image_tag("mug.png", :alt => "Ben Hughes")
             %nav#sub-nav
               .social
                 %a.twitter{:href => "http://twitter.com/rubiety", :title => "Twitter"} Twitter
@@ -43,7 +42,7 @@
                 %a.rss{:href => "/feed.xml", :title => "RSS"} RSS
             %nav#main-nav
               %ul
-                %li= link_to "&rarr; Personal Home Page", "http://benhughes.name/"
+                %li= link_to "&rarr; About Ben Hughes", "http://benhughes.name/"
                 %li= link_to "&rarr; Code Colossus", "http://www.codecolossus.com/"
                 %li= link_to "&rarr; Flight Leverage", "http://www.flightleverage.com"
         
