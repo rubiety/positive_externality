@@ -1,7 +1,7 @@
 //This is the main GREYSHADE css file. 
 
 body {
-  background: #3D4349;
+  background: $sidebar-background;
   font-family: "Open Sans", "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
@@ -42,6 +42,7 @@ body {
       a { color: #EFEFEF; text-shadow: 0 1px #333; }
       a:hover { color: $greyshade; }
       h1 { font-size: 26px; float: none; }
+      h3 { color: $sidebar-subheader-color; }
 
       .subtitle { color: #999; font-style: italic; }
       .profilepic {
