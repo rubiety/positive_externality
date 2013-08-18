@@ -10,49 +10,6 @@ body {
   color: $color-background;
 }
 
-// REFACTOR:
-#header {
-  height: auto;
-  border-bottom: none;
-  .subtitle {
-    color: #999;
-    font-style: italic;
-  }
-  #sub-nav {
-    float: none;
-    position: relative;
-    .social {
-      float: right;
-    }
-    .search {
-      float: none;
-      .alignright {
-        float: none;
-      }
-    }
-  }
-
-  h1 {
-    float: none;
-  }
-
-  #main-nav {
-    float: none;
-    margin-left: 0px;
-
-    ul { 
-      li {
-        margin-left: 0px;
-        display: block;
-        a {
-          padding: 0px 0px;
-        }
-      }
-    }
-  }
-}
-
-
 
 .container {
   .credit-box {
@@ -77,24 +34,46 @@ body {
     .intrude-less { width: 80%; }
 
     #header {
+      height: auto;
       width: 100%;
       padding: 10% 0% 0% 10%;
-      #main-nav { margin-top: 10px; }
+      border-bottom: none;
+
+      a { color: #EFEFEF; text-shadow: 0 1px #333; }
+      a:hover { color: $greyshade; }
+      h1 { float: none; }
+
+      .subtitle { color: #999; font-style: italic; }
       .profilepic {
         img {
           width: 160px;
           border: 4px solid $greyshade;
         }
       }
-      a { color: #EFEFEF; text-shadow: 0 1px #333; }
-      a:hover { color: $greyshade; }
+
       #sub-nav {
+        float: none;
+        position: relative;
         margin-top: 10px;
-        .search::before {
-        left: 10px;
+        .search { 
+          float: none;
+          .alignright { float: none; }
+          &::before { left: 10px; }
         }
-        .social {
-          margin-bottom: 10px;
+        .social { float: none; margin-bottom: 10px; }
+      }
+
+      #main-nav {
+        float: none;
+        margin-top: 10px;
+        margin-left: 0px;
+
+        ul { 
+          li {
+            margin-left: 0px;
+            display: block;
+            a { padding: 0px 0px; }
+          }
         }
       }
     }
